@@ -1,0 +1,3 @@
+class SecurityServer
+
+end
